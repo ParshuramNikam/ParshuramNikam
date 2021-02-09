@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Parshuram</h1>
-<h3 align="center">Keen observer who believes in learning by sharing knowledge 🚀 from India.</h3>
+<h3 align="center">Self motivated and hardworking individual constantly involved in self improvement And<br />Always ready to take up challenging tasks in order to test my skills and improve them further.<br/>Keen observer who believes in learning by sharing knowledge. <br /> 🚀 from India  🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parshuramnikam&label=Profile%20views&color=0e75b6&style=flat" alt="parshuramnikam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshuramnikam" alt="parshuramnikam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parshunikam" target="blank"><img src="https://img.shields.io/twitter/follow/parshunikam?logo=twitter&style=for-the-badge" alt="parshunikam" /></a> </p>
+<br> </br>
+<h4>A little more about me... </h4>
 
-<img align="right" width="500" height="350" src= readmepic.jpg >
+<img align="right" width="600" height="400" src= readmepic.jpg >
 
 - 🔭 I’m currently working on **something cool 😉;**
 
@@ -15,9 +17,10 @@
 
 - 💬 Ask me about anything, **I am happy to help you;**
 
-- 📫 How to reach me **parshunikam0612@gmail.com**
+- 📫 How to reach me : **parshunikam0612@gmail.com**
 
 -  ⚡ Second Year Student of **Computer Engineering**.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
