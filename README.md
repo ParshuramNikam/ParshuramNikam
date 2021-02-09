@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parshuramnikam" alt="parshuramnikam" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/parshunikam" target="blank"><img src="https://img.shields.io/twitter/follow/parshunikam?logo=twitter&style=for-the-badge" alt="parshunikam" /></a> </p>
-<br> </br>
+
 <h4>A little more about me... </h4>
 
 <img align="right" width="600" height="400" src= readmepic.jpg >
