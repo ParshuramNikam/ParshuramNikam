@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/parshunikam" target="blank"><img src="https://img.shields.io/twitter/follow/parshunikam?logo=twitter&style=for-the-badge" alt="parshunikam" /></a> </p>
 
-<img align="right" width="600" height="400" src=readmepic.jpg>
+<img align="right" width="500" height="350" src= readmepic.jpg >
 
 - 🔭 I’m currently working on **something cool 😉;**
 
@@ -17,13 +17,14 @@
 
 - 📫 How to reach me **parshunikam0612@gmail.com**
 
+-  ⚡ Second Year Student of **Computer Engineering**.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parshunikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="parshunikam" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parshuram nikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="parshuram nikam" height="30" width="40" /></a>
-<a href="https://fb.com/parshuram nikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="parshuram nikam" height="30" width="40" /></a>
+<a href="https://fb.com/p" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="p" height="30" width="40" /></a>
 <a href="https://instagram.com/parshu_nikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="parshu_nikam" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/parshuramnikam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="parshuramnikam" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
