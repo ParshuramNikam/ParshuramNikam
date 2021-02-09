@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/parshunikam" target="blank"><img src="https://img.shields.io/twitter/follow/parshunikam?logo=twitter&style=for-the-badge" alt="parshunikam" /></a> </p>
 
-<img align="right", alt="Coding", width="600", height="400", src="https://www.freepik.com/free-vector/hand-drawn-web-developers_12063795.htm#page=1&query=programming&position=3">
+<img align="right" width="600" height="400" src=readmepic.jpg>
 
 - 🔭 I’m currently working on **something cool 😉;**
 
 - 🌱 I’m currently learning **MySQL**
 
-- 💬 Ask me about anything, **I am happy to help;**
+- 💬 Ask me about anything, **I am happy to help you;**
 
 - 📫 How to reach me **parshunikam0612@gmail.com**
 
