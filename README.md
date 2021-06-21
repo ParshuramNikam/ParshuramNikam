@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **something cool 😉;**
 
-- 🌱 I’m currently learning **MySQL**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about anything, **I am happy to help you;**
 
