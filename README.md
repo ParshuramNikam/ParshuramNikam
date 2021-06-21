@@ -19,7 +19,7 @@
 
 - 📫 How to reach me : **parshunikam0612@gmail.com**
 
--  ⚡ Second Year Student of **Computer Engineering**.
+-  ⚡ Third Year Student of **Computer Engineering**.
 
 
 <h3 align="left">Connect with me:</h3>
